@@ -12,7 +12,7 @@ IDURAR is ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack
 
 </div>
 
-**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
+**🚀 Custom-Hosted Enterprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
 
 
 
